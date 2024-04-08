@@ -185,6 +185,23 @@ GenerateClassCluster=0
 DocumentUniqueId=KCHMABJY
 
 [Document9]
+DocumentPath=60ghz radar_v1.1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FYFWUKOL
+
+[Document10]
 DocumentPath=radar sch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WAPYAGFR
 
-[Document10]
+[Document11]
 DocumentPath=SnapDocs\ECS-240-8-36-RWN-TR3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWRYIUYH
 
-[Document11]
+[Document12]
 DocumentPath=SnapDocs\ECS-240-8-36-RWN-TR3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QSIRMUHJ
 
-[Document12]
+[Document13]
 DocumentPath=battery check and motor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WFAMJLVY
 
-[Document13]
+[Document14]
 DocumentPath=SnapDocs\10144041-10011LF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WSMJQSHY
 
-[Document14]
+[Document15]
 DocumentPath=SnapDocs\10144041-10011LF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
