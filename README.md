@@ -12,7 +12,7 @@ There are two boards in the design namely:
 - A suitable STM32 MCU that can handle both the AWR1843 AOP 77 Ghz and the Acconeer A121 on the secondary board simultaneously. The MCU should be selected with power consumption in mind as well but performance of MCU should not be compromised.
 - The design should have support for [this vibration motor](https://www.digikey.com/en/products/detail/seeed-technology-co.,-ltd/316040001/5487672?utm_adgroup=&utm_term=&utm_content=&gad_source=1) which should be at the back of the enclosure.
 - The design should have an RGB LED for battery level indication. The battery must be placed on the same location as the old reference client files.
-- USB-C for programming and charging.
+- USB-C for programming and charging. The port should be horizontal laying flat on the board.
     - USB-C port to be on the back of the PCB in the middle at the top.
 - Push button that does the following:
     - Turns PCB on/off on single button press
