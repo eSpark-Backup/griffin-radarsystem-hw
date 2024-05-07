@@ -256,6 +256,10 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for Main_Board_2.0\BGA Escape Route - PCB_Main_Board_v2.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Main_Board_2.0\Design Rule Check - PCB_Main_Board_v2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

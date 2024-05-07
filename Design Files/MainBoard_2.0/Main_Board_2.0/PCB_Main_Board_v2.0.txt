@@ -1,12 +1,12 @@
 Board Information Report
 Filename     : C:\Users\eSpark\Desktop\griffin-radarsystem-hw\Design Files\MainBoard_2.0\Main_Board_2.0\PCB_Main_Board_v2.0.PcbDoc
-Date         : 5/6/2024
-Time         : 7:30:43 PM
+Date         : 5/7/2024
+Time         : 9:04:14 PM
 Time Elapsed : 00:00:00
 
 Routing Information
-    Routing completion, 77.36%
+    Routing completion, 100.00%
     Connections, 636
-    Connections routed, 492
-    Connections remaining, 144
+    Connections routed, 636
+    Connections remaining, 0
 count : 4
