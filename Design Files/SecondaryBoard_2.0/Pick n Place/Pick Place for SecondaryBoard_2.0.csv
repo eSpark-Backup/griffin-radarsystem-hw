@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+C:\Users\LiberDB\Documents\GitHub\griffin-radarsystem-hw\Design Files\SecondaryBoard_2.0\Project Outputs for SecondaryBoard_2.0\Pick Place for SecondaryBoard_2.0.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/05/24
+Time:       17:48
+Revision:   864934317b1db38fa7426517f156b31761e2851c
+Variant:    No variations
+Units used: mm
+
+"Designator","Layer","Center-X(mm)","Center-Y(mm)","Rotation","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"C1","TopLayer","2,1920mm","9,4282mm","180","2,1920mm","9,4282mm","2,6619mm","9,4282mm"
+"C2","BottomLayer","8,1356mm","12,2857mm","90","8,1356mm","12,2857mm","8,1356mm","11,8158mm"
+"C3","BottomLayer","8,3388mm","7,4216mm","90","8,3388mm","7,4216mm","8,3388mm","6,9517mm"
+"C4","TopLayer","7,5260mm","3,3195mm","270","7,5260mm","3,3195mm","7,5260mm","3,7894mm"
+"C5","TopLayer","3,4366mm","3,3195mm","90","3,4366mm","3,3195mm","3,4366mm","2,8496mm"
+"C6","BottomLayer","8,3388mm","5,5293mm","270","8,3388mm","5,5293mm","8,3388mm","5,9992mm"
+"FB1","TopLayer","2,1412mm","10,5458mm","0","2,1412mm","10,5458mm","1,7912mm","10,5458mm"
+"FB2","TopLayer","3,4930mm","12,7810mm","0","3,4930mm","12,7810mm","3,1430mm","12,7810mm"
+"J1","BottomLayer","3,0627mm","7,5066mm","90","3,0627mm","7,5066mm","5,0002mm","3,0066mm"
+"U1","TopLayer","5,9538mm","8,6782mm","0","5,9538mm","8,6782mm","4,2038mm","10,9282mm"
+"X1","TopLayer","5,4432mm","2,8750mm","270","5,4432mm","2,8750mm","4,6682mm","3,8000mm"

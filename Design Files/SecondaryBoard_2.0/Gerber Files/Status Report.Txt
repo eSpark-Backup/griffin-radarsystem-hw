@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SecondaryBoard_2.0.PrjPcb]
+   Generated File[SecondaryBoard_2.0.TXT]
+   Generated File[SecondaryBoard_2.0.LDP]
+   Generated File[SecondaryBoard_2.0.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:45:04 PM On 5/8/2024
