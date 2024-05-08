@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AZYEPLLK
 
 [Document2]
-DocumentPath=Sec... PCB_v1.1.PcbDoc
+DocumentPath=SecondaryBoard_2.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -80,7 +80,11 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EMAHXACE
+DocumentUniqueId=ONHFQFFI
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SecondaryBoard_2.0\Design Rule Check - SecondaryBoard_2.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
