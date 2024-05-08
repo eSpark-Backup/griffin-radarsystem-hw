@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\LiberDB\Documents\GitHub\griffin-radarsystem-hw\Design Files\MainBoard_2.0\Main_Board_2.0\PCB_Main_Board_v2.0.PcbDoc
+RuleKind=Width|RuleName=USB_90|Scope=Board|Minimum=5.29
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.00
